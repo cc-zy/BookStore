@@ -29,3 +29,8 @@
 <br><br>
 
 我的博客地址：[https://blog.csdn.net/weixin_42950079/article/details/88533082](https://blog.csdn.net/weixin_42950079/article/details/88533082)
+
+```
+var a="你好";
+```
+
